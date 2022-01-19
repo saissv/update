@@ -1,2 +1,4 @@
 life
 catch
+like
+gain
